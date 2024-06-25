@@ -13,3 +13,11 @@ pyneuroml.swc.ExportSWC module
    :members:
    :undoc-members:
    :show-inheritance:
+
+pyneuroml.swc.LoadSWC module
+------------------------------
+
+.. automodule:: pyneuroml.swc.LoadSWC
+   :members:
+   :undoc-members:
+   :show-inheritance:
