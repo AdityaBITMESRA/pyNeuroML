@@ -1,3 +1,11 @@
+"""
+Module to Load SWC files.
+
+File: pyneuroml/swc/LoadSWC.py
+
+Copyright 2024 NeuroML contributors
+"""
+
 import re
 
 
